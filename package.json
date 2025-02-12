@@ -1,0 +1,17 @@
+{
+  "name": "jogo",
+  "version": "1.0.0",
+  "source": " index.ts",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "typescript": "^5.7.3"
+  }
+}
